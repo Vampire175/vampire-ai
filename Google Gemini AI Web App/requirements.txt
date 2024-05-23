@@ -1,0 +1,6 @@
+Flask==2.0.1
+Werkzeug==2.0.1
+google-generativeai
+gunicorn==20.1.0
+python-dotenv
+
